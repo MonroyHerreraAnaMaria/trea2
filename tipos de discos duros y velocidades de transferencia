@@ -1,0 +1,9 @@
+TIPOS DE DISCOS DUROS Y VELOCIDADES DE TRANSFERECIA 
+La velocidad de transferencia de datos del disco duro de una computadora está determinada por una combinación de factores mecánicos y electrónicos. Gracias a los avances tecnológicos de los últimos años, los discos duros actuales pueden transferir datos a una velocidad que es casi 60.000 veces más rápida que la de las primeras unidades de la década de 1950.
+LATENCIA 
+Un disco duro posee partes mecánicas que giran los platos del disco interno y mueven los cabezales de lectura hacia atrás y hacia adelante a través de la superficie del plato. Estas operaciones mecánicas le agregan algunas milésimas de segundo a cada transferencia de datos. Aunque este retraso es minúsculo para una transferencia, se suma a través de millones de transferencias.
+CACHE
+Los discos duros guardan los bloques de datos usados con frecuencia en un banco de memoria de acceso aleatorio rápido o RAM (por sus siglas en inglés) llamado caché. Si la unidad es capaz de acceder a datos desde el caché en lugar de tener que recuperar datos desde el disco duro, esto puede evitar retrasos mecánicos, lo que permite transferir datos mucho más rápido.
+INTERFAZ
+La electrónica y el cableado que conecta al disco duro con la computadora establecen el límite de velocidad máximo de la tasa de transferencia de la unidad. Las computadoras usan varias interfaces estándar como SCSI, IDE y SATA.
+
